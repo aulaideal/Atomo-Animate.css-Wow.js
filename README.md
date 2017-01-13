@@ -1,10 +1,5 @@
-# Partícula "Owl Testimonios"
-Partícula para Gantry 5 que te permite incluir diferentes slides de testimonios con multiples opciones de configuración dentro de tu diseño. 
-Util para mostrar una seccion animada de testimonios.
-
-Requisitos:
-Esta partícula necesita tener instalado y habilitado el Átomo "Owl Carousel" dentro de tu Diseño. Consíguelo de forma gratuita desde aquí:
-https://github.com/aulaideal/Atomo-Owlcarousel
+# Atomo "Animate.css-Wow.js"
+Este átomo para Gantry 5 nos permite incluir 2 librerías muy conocidas:"Wow.js" y "Animate.css" dentro de su diseño, necesario para el correcto funcionamiento de muchas partículas.
 
 Instalación
 -----------
@@ -12,19 +7,15 @@ No hemos incluido un instalador ya que deseamos que esta partícula pueda ser us
 El modo de instalación es muy sencillo:
 
 + Busque o crée la carpeta "particles" dentro de tu carpeta "custom" en tu plantilla Gantry. Ejem: g5_hydrogen/custom/particles
-+ Cópie los archivos owl-testimonios.html.twig y owl-testimonios.yaml dentro de dicha carpeta (custom/particles).
-+ Cópie el archivo scss/_owl-testimonios.scss dentro de tu carpeta "scss". Ejem: g5_hydrogen/custom/scss
-+ Cargue el archivo "_owl-testimonios.scss" desde tu custom.scss colocando la siguiente linea al comienzo del archivo: 
-
-/* Estilos partícula Owl Testimonios */
-
- @import "owl-testimonios";
-
++ Cópie los archivos atomo-animatecss-wowjs.yaml y atomo-animatecss-wowjs.html.twig dentro de dicha carpeta (custom/particles).
++ Cópie el archivo css/animate.min.css dentro de /custom/css Ejemplo:  /g5_hydrogen/custom/css
++ Cópie el archivo js/wow.min.js dentro de /custom/js Ejemplo:  /g5_hydrogen/custom/js
 
 Modo de uso
 -----------
-+ Desde el Layout Manager encontrará la partícula con el nombre "Owl Testimonios". 
-+ Arrástrala a tu  diseño y configúrala.
++ Diríjase al Base Outline (O a cualquier otro), ingrese a la pestaña "Page Setting". 
++ Arrástre su átomo detro de la sección de "Átomos disponibles". 
++ Configure su Átomo pendendiendo de los requerimientos.
 
 Saludos
 http://www.aulaideal.com
