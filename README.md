@@ -13,7 +13,7 @@ El modo de instalación es muy sencillo:
 
 Modo de uso
 -----------
-+ Diríjase al Base Outline (O a cualquier otro), ingrese a la pestaña "Page Setting". 
++ Diríjase al Base Outline (O a cualquier otro Outline), ingrese a la pestaña "Page Setting". 
 + Arrástre su átomo detro de la sección de "Átomos disponibles". 
 + Configure su Átomo pendendiendo de los requerimientos.
 
