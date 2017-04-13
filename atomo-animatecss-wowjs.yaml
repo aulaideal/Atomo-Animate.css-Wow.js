@@ -2,6 +2,10 @@ name: Wow.js y Animate.css
 description: Wow.js muestra las animaciones basadas en Animate.css a medida que se hace scroll sobre la página. Por su parte Animate.css es una colección de animaciones basadas en CSS3.
 type: atom
 
+configuration:
+  caching:
+    type: static
+
 form:
   fields:
     enabled:
