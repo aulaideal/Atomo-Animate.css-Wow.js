@@ -1,6 +1,8 @@
 # Atomo "Animate.css-Wow.js"
 Este átomo para Gantry 5 nos permite incluir 2 librerías muy conocidas:"Wow.js" y "Animate.css" dentro de su diseño, necesario para el correcto funcionamiento de muchas partículas.
 
+![animatewow](https://user-images.githubusercontent.com/9434043/26899984-745aee5e-4b96-11e7-9240-19257e40b5c8.png)
+
 Instalación
 -----------
 No hemos incluido un instalador ya que deseamos que esta partícula pueda ser usada tanto en Joomla como en Wordpress. 
